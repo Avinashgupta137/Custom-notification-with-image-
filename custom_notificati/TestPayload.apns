@@ -1,0 +1,12 @@
+{
+    "Simulator Target Bundle": "com.itpathsolution.custom-notificati",
+    "aps":{
+          "alert":"dasdas",
+          "badge":1,
+          "sound":"default",
+          "category":"CustomSamplePush",
+          "mutable-content":"1"
+       },
+       "urlImageString":"https://res.cloudinary.com/demo/image/upload/sample.jpg"
+ 
+}
